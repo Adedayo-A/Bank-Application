@@ -9,20 +9,27 @@ using Microsoft.AspNetCore.Mvc;
 namespace BankApplication.Controllers
 {
     [Route("api/[controller]")]
-    public class ValuesController : Controller
+    public class AdminController : Controller
     {
         // GET: api/<controller>
-        [HttpGet]
-        public IEnumerable<string> Get()
+        [HttpPost]
+        public IActionResult CreateAdmin([FromBody] string FirstName, [FromBody] string LastName, [FromBody] string Email, [FromBody] string Password)
         {
-            return new string[] { "value1", "value2" };
+            if(FirstName == "")
+            {
+                return NotFound("Nothing Found");
+            }
+            else
+            {
+                return Content("Admin created successfully");
+            }
         }
 
         // GET api/<controller>/5
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value back";
+            return "value";
         }
 
         // POST api/<controller>
@@ -37,7 +44,7 @@ namespace BankApplication.Controllers
         {
         }
 
-        // DELETE api/<controller>/5```
+        // DELETE api/<controller>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {

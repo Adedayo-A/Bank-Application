@@ -1,0 +1,8 @@
+C:\Users\adese\source\repos\BankApplication\AdminLoggedInDetails\bin\Debug\netstandard2.0\AdminLogDetails.deps.json
+C:\Users\adese\source\repos\BankApplication\AdminLoggedInDetails\bin\Debug\netstandard2.0\AdminLogDetails.dll
+C:\Users\adese\source\repos\BankApplication\AdminLoggedInDetails\bin\Debug\netstandard2.0\AdminLogDetails.pdb
+C:\Users\adese\source\repos\BankApplication\AdminLoggedInDetails\obj\Debug\netstandard2.0\AdminLogDetails.csprojAssemblyReference.cache
+C:\Users\adese\source\repos\BankApplication\AdminLoggedInDetails\obj\Debug\netstandard2.0\AdminLogDetails.AssemblyInfoInputs.cache
+C:\Users\adese\source\repos\BankApplication\AdminLoggedInDetails\obj\Debug\netstandard2.0\AdminLogDetails.AssemblyInfo.cs
+C:\Users\adese\source\repos\BankApplication\AdminLoggedInDetails\obj\Debug\netstandard2.0\AdminLogDetails.dll
+C:\Users\adese\source\repos\BankApplication\AdminLoggedInDetails\obj\Debug\netstandard2.0\AdminLogDetails.pdb

@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adese\\source\\repos\\BankApplication\\BankApplication\\BankApplication.csproj": {}
+    "C:\\Users\\adese\\source\\repos\\BankApplication\\Connection\\Connection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adese\\source\\repos\\BankApplication\\BankApplication\\BankApplication.csproj": {
+    "C:\\Users\\adese\\source\\repos\\BankApplication\\Connection\\Connection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adese\\source\\repos\\BankApplication\\BankApplication\\BankApplication.csproj",
-        "projectName": "BankApplication",
-        "projectPath": "C:\\Users\\adese\\source\\repos\\BankApplication\\BankApplication\\BankApplication.csproj",
+        "projectUniqueName": "C:\\Users\\adese\\source\\repos\\BankApplication\\Connection\\Connection.csproj",
+        "projectName": "Connection",
+        "projectPath": "C:\\Users\\adese\\source\\repos\\BankApplication\\Connection\\Connection.csproj",
         "packagesPath": "C:\\Users\\adese\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adese\\source\\repos\\BankApplication\\BankApplication\\obj\\",
+        "outputPath": "C:\\Users\\adese\\source\\repos\\BankApplication\\Connection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adese\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -36,28 +36,13 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netstandard2.0": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
+            "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.1, )",
+              "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.2, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[2.1.10, )"
             }
           },
           "imports": [

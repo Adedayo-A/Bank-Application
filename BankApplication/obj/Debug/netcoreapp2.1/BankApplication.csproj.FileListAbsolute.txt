@@ -1,0 +1,14 @@
+C:\Users\adese\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\adese\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.deps.json
+C:\Users\adese\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.runtimeconfig.json
+C:\Users\adese\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.runtimeconfig.dev.json
+C:\Users\adese\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.dll
+C:\Users\adese\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csprojAssemblyReference.cache
+C:\Users\adese\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.RazorAssemblyInfo.cache
+C:\Users\adese\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.RazorAssemblyInfo.cs
+C:\Users\adese\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.AssemblyInfoInputs.cache
+C:\Users\adese\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.AssemblyInfo.cs
+C:\Users\adese\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.RazorTargetAssemblyInfo.cache
+C:\Users\adese\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.pdb
+C:\Users\adese\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.dll
+C:\Users\adese\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.pdb
