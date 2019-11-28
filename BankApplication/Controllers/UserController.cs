@@ -57,7 +57,6 @@ namespace BankApplication.Controllers
                     }
                     else
                     {
-                        dbConnect.Open();
                         string sqlText = @"SELECT * FROM Customer
                             WHERE CustomerAccountNumber = @AccNo AND CustomerPassword = @Password";
                         SqlCommand command = new SqlCommand(sqlText, dbConnect);
